@@ -10,7 +10,7 @@ https://huggingface.co/rinna/japanese-gpt-1b
 install require:
 torch,transformer,sentencepiece
 
-参考文献
+/参考文献
 
 https://www.ogis-ri.co.jp/otc/hiroba/technical/similar-document-search/part14.html
 https://zenn.dev/tyaahan/articles/a8d99900000002
