@@ -16,5 +16,7 @@ https://zenn.dev/tyaahan/articles/a8d99900000002
 
 
 2.GPTで出力するAIの独り言
+
 ![スクリーンショット 2022-07-25 21 01 16](https://user-images.githubusercontent.com/35251392/180779253-fc3fd9bf-03b3-4124-8fe2-f2dcd86e7e3b.png)
+
 ![スクリーンショット 2022-07-25 21 04 56](https://user-images.githubusercontent.com/35251392/180779283-4d99debb-32a1-452b-a213-ac674d76275c.png)
