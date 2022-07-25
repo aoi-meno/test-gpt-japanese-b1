@@ -4,6 +4,12 @@
 モデルは以下を使用
 https://huggingface.co/rinna/japanese-gpt-1b
 
+使用する際は、上記で配布されているファイル群をmodelフォルダに入れてください。
+他のモデルでも可能です。
+
+install require:
+torch,transformer,sentencepiece
+
 参考文献
 https://www.ogis-ri.co.jp/otc/hiroba/technical/similar-document-search/part14.html
 https://zenn.dev/tyaahan/articles/a8d99900000002
